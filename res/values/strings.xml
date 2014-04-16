@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Ashtavakra Gita</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_ashtavakra">Ashtavakra Gita</string>
+    <color name="ag_color_bkgnd">#000000</color>
+    <color name="ag_color_fgnd">#FFFFFF</color>
+    <string name="ag_title">Ashtavakra Gita</string>
+    <string name="ag_caption">Discussion between King Janaka and Sage Ashtavakra</string>
+    <string name="ag_ack">Translated by Swami Nityaswarupananda</string>
+    <string name="chapNum">Chapter #</string>
+    <string name="prev">&lt;</string>
+    <string name="next">&gt;</string>
+
+</resources>
